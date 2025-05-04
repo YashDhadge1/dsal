@@ -113,5 +113,3 @@ def main():
 			print("Invalid choice!!!enter correct choice")
 	
 main()
-tele.py
-Displaying tele.py.
